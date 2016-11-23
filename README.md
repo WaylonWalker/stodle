@@ -20,7 +20,7 @@ def really_long_function()
     needs to run without windows going into screensaver
     """
 
-    for i in range(1000
+    for i in range(1000)
         time.sleep(100)
         stop_idle()
 
