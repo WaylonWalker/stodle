@@ -1,4 +1,8 @@
-/build
-/dist
+build/
+dist/
+.idea/
+.idea
+.idea.workspace.xml
+
 *.egg-info
 *.idea
