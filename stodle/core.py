@@ -1,7 +1,7 @@
 """
 stodle
 
-small module to keep windows running
+small package to keep windows running
 """
 
 from win32api import GetTickCount, GetLastInputInfo
